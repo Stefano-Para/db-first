@@ -18,6 +18,3 @@ stato interni - stringa - VARCHAR()
 stato motore - stringa - VARCHAR()
 
 prezzo - float - float (I,D)
-
-
-
