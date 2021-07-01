@@ -1,3 +1,23 @@
 Nome tabella: cars.
 
-id - 
+id - intero - MEDIUMINT - PRIMARY KEY - AUTO_INCREMENT - UNIQUE(?)
+
+casa produttrice - stringa - VARCHAR() - NOTNULL
+modello - stringa - VARCHAR() - NOTNULL
+modello-specifico - stringa - VARCHAR() - NOTNULL
+
+anno- date - year
+km - int - small
+alimentazione - stringa - VARCHAR()
+potenza - stringa(xxx hp/kw) - VARCHAR()
+cambio - stringa - VARCHAR()
+colore - string - VARCHAR()
+
+stato carrozzeria - stringa - VARCHAR()
+stato interni - stringa - VARCHAR()
+stato motore - stringa - VARCHAR()
+
+prezzo - float - float (I,D)
+
+
+
